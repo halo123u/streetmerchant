@@ -1,5 +1,19 @@
 # Changelog
 
+## [3.1.0](https://www.github.com/jef/streetmerchant/compare/v3.0.0...v3.1.0) (2020-11-13)
+
+
+### Features
+
+* **store:** add topachat ([#776](https://www.github.com/jef/streetmerchant/issues/776)) ([c38bebb](https://www.github.com/jef/streetmerchant/commit/c38bebb49dbe8243d0e3f1205150a33f9ce745aa))
+* add amazon-fr to stores. ([#766](https://www.github.com/jef/streetmerchant/issues/766)) ([02d7c47](https://www.github.com/jef/streetmerchant/commit/02d7c47c4093ad71dfab31f93a9b1390f4cad8a0))
+* **store:** support for canadacomputers ([#772](https://www.github.com/jef/streetmerchant/issues/772)) ([bd69e47](https://www.github.com/jef/streetmerchant/commit/bd69e471f7b47e7faf1d9858992d4157145518aa))
+
+
+### Reverts
+
+* pipeline changes ([efe0d64](https://www.github.com/jef/streetmerchant/commit/efe0d64f060e812fd9846073a13837a3f2a27862))
+
 ## [3.0.0](https://www.github.com/jef/streetmerchant/compare/v2.0.0...v3.0.0) (2020-11-12)
 
 
